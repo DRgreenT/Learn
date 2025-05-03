@@ -1,5 +1,16 @@
 ## Coding Documentation
 
+<p align="center">
+    <a href="https://github.com/DRgreenT/Learn/blob/master/src/related_Coding.md#c--net">C#</a>
+    <a href="https://github.com/DRgreenT/Learn/blob/master/src/related_Coding.md#c">C++</a>
+    <a href="https://github.com/DRgreenT/Learn/blob/master/src/related_Coding.md#javascript">Java Skript</a>
+    <a href="https://github.com/DRgreenT/Learn/blob/master/src/related_Coding.md#html">Html</a>
+    <a href="https://github.com/DRgreenT/Learn/blob/master/src/related_Coding.md#css">Css</a>
+    <a href="https://github.com/DRgreenT/Learn/blob/master/src/related_Coding.md#python">Python</a>
+    <a href="https://github.com/DRgreenT/Learn/blob/master/src/related_Coding.md#roadmaps">Roadmaps</a>
+</p>
+
+
 ### C# / .NET
 
 #### 🇩🇪
@@ -25,6 +36,24 @@
 - [C++ STL Überblick (cppreference.com)](https://en.cppreference.com/w/cpp/container)
 - [C++ Spickzettel (Cheat Sheet – DaveChild)](https://www.cheatography.com/davechild/cheat-sheets/cpp/)
 - [C++ STL Cheat Sheet (DaveChild)](https://www.cheatography.com/davechild/cheat-sheets/cpp-stl/)
+
+**Additional ressources:**
+
+- [c-plusplus.net Forum (DE)](https://www.c-plusplus.net/forum/)
+- [cppreference.com](https://en.cppreference.com/w/)
+- [cplusplus.com](http://www.cplusplus.com/)
+- [Kompf.de C++ Tutorials (DE)](https://www.kompf.de/cplus/artikel/index.html)
+- [C++ Script (PDF, Uni Graz – DE)](https://imsc.uni-graz.at/haasegu/Lectures/Kurs-C/Script/html/script_programmieren.pdf)
+- [Windows Programming in C++ (MSDN)](https://learn.microsoft.com/de-de/cpp/windows/overview-of-windows-programming-in-cpp?view=msvc-170)
+- [C++ auf Wikibooks (DE)](https://de.wikibooks.org/wiki/C%2B%2B-Programmierung)
+- [Runebook C++ Übersicht (DE)](https://runebook.dev/de/docs/cpp/-index-)
+
+**wxWidgets:**
+
+- [wxWidgets Doku & Ressourcen](https://www.wxwidgets.org/docs/book/Cross-Platform%20GUI%20Programming%20with%20wxWidgets.pdf)
+- [wxWidgets Annotated Doku](https://docs.wxwidgets.org/3.0/annotated.html)
+- [YouTube wxWidgets Playlist (DE)](https://www.youtube.com/playlist?list=PLFk1_lkqT8MbVOcwEppCPfjGOGhLvcf9G)
+- [wxWidgets YouTube Einführung (EN)](https://www.youtube.com/watch?v=FOIbK4bJKS8)
 
 ---
 
@@ -86,7 +115,7 @@
 
 ---
 
-## Roadmaps
+## 🗺️ Roadmaps
 
 - [Frontend Entwickler Roadmap](https://roadmap.sh/frontend)
 - [Backend Entwickler Roadmap](https://roadmap.sh/backend)
@@ -94,9 +123,7 @@
 
 ---
 
-## Coding Challenges
-
----
+## 🧩 Coding Challenges
 
 ### Platforms
 
@@ -107,6 +134,3 @@
 - [Exercism](https://exercism.org/) — real code mentoring platform with CLI-based practice in 60+ languages
 - [Edabit](https://edabit.com/) — beginner-friendly interactive coding challenges
 - [Coderbyte](https://coderbyte.com/) — programming and interview prep with challenge solutions and tutorials
-
----
-
