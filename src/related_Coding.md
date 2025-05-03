@@ -92,3 +92,21 @@
 - [Backend Entwickler Roadmap](https://roadmap.sh/backend)
 - [DevOps Roadmap](https://roadmap.sh/devops)
 
+---
+
+## 🧩 Coding Challenges
+
+---
+
+### 🚀 Platforms
+
+- [LeetCode](https://leetcode.com/) — extensive problem sets for coding interviews and algorithm practice
+- [freeCodeCamp](https://www.freecodecamp.org/) — full curriculum including interactive coding challenges, web dev, APIs & more
+- [HackerRank](https://www.hackerrank.com/) — algorithm challenges, domains like SQL, Linux, regex, and certifications
+- [Codewars](https://www.codewars.com/) — kata-based community challenge platform with rankings and discussions
+- [Exercism](https://exercism.org/) — real code mentoring platform with CLI-based practice in 60+ languages
+- [Edabit](https://edabit.com/) — beginner-friendly interactive coding challenges
+- [Coderbyte](https://coderbyte.com/) — programming and interview prep with challenge solutions and tutorials
+
+---
+
