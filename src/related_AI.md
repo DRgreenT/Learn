@@ -1,7 +1,5 @@
 ## AI Tools & Platforms
 
-A curated list of modern AI tools for productivity, creativity, and automation.
-
 ---
 
 ### Chatbots & Assistants
