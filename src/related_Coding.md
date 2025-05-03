@@ -94,11 +94,11 @@
 
 ---
 
-## 🧩 Coding Challenges
+## Coding Challenges
 
 ---
 
-### 🚀 Platforms
+### Platforms
 
 - [LeetCode](https://leetcode.com/) — extensive problem sets for coding interviews and algorithm practice
 - [freeCodeCamp](https://www.freecodecamp.org/) — full curriculum including interactive coding challenges, web dev, APIs & more
