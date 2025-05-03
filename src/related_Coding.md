@@ -1,97 +1,94 @@
-## Documentation	
+## 📚 Documentation
 
-### C#
+### C# / .NET
 
-#### DE
-
-- [C#  Reference - DE](https://learn.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/)
-- [.NET  Documentation](https://learn.microsoft.com/de-de/dotnet/)
-- [.NET  API Browser](https://learn.microsoft.com/de-de/dotnet/api/?view=dotnet-plat-ext-7.0)
-- [.NET  CLI](https://learn.microsoft.com/de-de/dotnet/core/tools/)
-- [.NET  SDK](https://learn.microsoft.com/de-de/dotnet/core/tools/sdk-manifest)
+#### 🇩🇪
+- [Tour durch C# (offizielle Einführung)](https://learn.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/)
+- [.NET Dokumentation (Hauptseite)](https://learn.microsoft.com/de-de/dotnet/)
+- [.NET API-Browser (alle Klassen & Namespaces)](https://learn.microsoft.com/de-de/dotnet/api/?view=dotnet-plat-ext-7.0)
+- [.NET CLI-Befehle (Kommandozeilen-Tools)](https://learn.microsoft.com/de-de/dotnet/core/tools/)
+- [.NET SDK-Versionen und Downloads](https://learn.microsoft.com/de-de/dotnet/core/tools/sdk-manifest)
 
 ---
 
 ### C++
 
-#### DE
+#### 🇩🇪
 
-- [C++  Reference - DE](https://de.cppreference.com/w/)
-- [C++  STL - DE](https://de.cppreference.com/w/cpp/container)
+- [C++ Referenz auf Deutsch (cppreference.com)](https://de.cppreference.com/w/)
+- [Standardbibliothek (STL) – Übersicht DE](https://de.cppreference.com/w/cpp/container)
 
-#### EN
+#### 🇺🇸
 
-- [C++  Reference - EN](https://en.cppreference.com/w/)
-- [C++  Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/cpp/)
-- [C++  STL](https://www.cplusplus.com/reference/stl/)
-- [C++  STL - EN](https://en.cppreference.com/w/cpp/container)
-- [C++  STL - Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/cpp-stl/)
-- [C++  STL - Reference](https://www.cplusplus.com/reference/stl/)
+- [C++ Referenz auf Englisch (cppreference.com)](https://en.cppreference.com/w/)
+- [C++ STL Referenz (cplusplus.com)](https://www.cplusplus.com/reference/stl/)
+- [C++ STL Überblick (cppreference.com)](https://en.cppreference.com/w/cpp/container)
+- [C++ Spickzettel (Cheat Sheet – DaveChild)](https://www.cheatography.com/davechild/cheat-sheets/cpp/)
+- [C++ STL Cheat Sheet (DaveChild)](https://www.cheatography.com/davechild/cheat-sheets/cpp-stl/)
 
 ---
 
-### JS
+### JavaScript
 
-#### DE
+#### 🇩🇪
 
-- [JS  Reference - DE](https://developer.mozilla.org/de/docs/Web/JavaScript)
+- [JavaScript Referenz (MDN – DE)](https://developer.mozilla.org/de/docs/Web/JavaScript)
 
-#### EN
-- [JS  Reference - EN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JS  Reference - EN](https://www.w3schools.com/jsrEF/default.asp)
-- [JS   Cheat Sheet](https://htmlcheatsheet.com/js/)
+#### 🇺🇸
+
+- [JavaScript Referenz (MDN – EN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript Referenz (w3schools)](https://www.w3schools.com/jsref/default.asp)
+- [JavaScript Cheat Sheet (htmlcheatsheet.com)](https://htmlcheatsheet.com/js/)
 
 ---
 
 ### HTML
 
-#### DE
+#### 🇩🇪
 
-- [HTML  Reference - DE](https://developer.mozilla.org/de/docs/Web/HTML)
-- [HTML  Reference - DE](https://www.w3schools.com/html/html_reference.asp)
+- [HTML Referenz (MDN – DE)](https://developer.mozilla.org/de/docs/Web/HTML)
+- [HTML Elemente Übersicht (w3schools – DE)](https://www.w3schools.com/html/html_reference.asp)
 
-#### EN
+#### 🇺🇸
 
-- [HTML  Reference - EN](https://www.w3schools.com/tags/default.asp)]
-- [HTML Cheat Sheet](https://htmlcheatsheet.com/)
+- [HTML Tag-Referenz (w3schools – EN)](https://www.w3schools.com/tags/default.asp)
+- [HTML Cheat Sheet (htmlcheatsheet.com)](https://htmlcheatsheet.com/)
 
 ---
 
-### CSS 
+### CSS
 
-#### DE
+#### 🇩🇪 
 
-- [CSS  Reference - DE](https://developer.mozilla.org/de/docs/Web/CSS)
-- [CSS  Reference - DE](https://www.w3schools.com/cssref/default.asp)
+- [CSS Referenz (MDN – DE)](https://developer.mozilla.org/de/docs/Web/CSS)
+- [CSS Eigenschaftsreferenz (w3schools – DE)](https://www.w3schools.com/cssref/default.asp)
 
-#### EN
+#### 🇺🇸 
 
-- [CSS  Cheat Sheet](https://htmlcheatsheet.com/css/)
-- [CSS  Reference - EN](https://www.w3schools.com/cssref/default.asp)
-- [CSS  Reference - EN](https://www.w3schools.com/cssref/css3_browsersupport.asp)
+- [CSS Cheat Sheet (htmlcheatsheet.com)](https://htmlcheatsheet.com/css/)
+- [CSS Referenz (w3schools – EN)](https://www.w3schools.com/cssref/default.asp)
+- [CSS3 Browser Support Übersicht](https://www.w3schools.com/cssref/css3_browsersupport.asp)
 
 ---
 
 ### Python
 
-#### DE
+#### 🇩🇪 
 
-- [Python  Reference - DE](https://docs.python.org/de/3/)
-- [Python  Reference - DE](https://www.w3schools.com/python/python_reference.asp)
+- [Python Handbuch (docs.python.org – DE)](https://docs.python.org/de/3/)
+- [Python Referenz (w3schools – DE)](https://www.w3schools.com/python/python_reference.asp)
 
-#### EN
+#### 🇺🇸 
 
-- [Python  Cheat Sheet](https://www.pythoncheatsheet.org/)
-- [Python  Reference](https://www.w3schools.com/python/python_reference.asp)
-- [Python  Reference - EN](https://docs.python.org/3/)
+- [Python Cheatsheet (pythoncheatsheet.org)](https://www.pythoncheatsheet.org/)
+- [Python Referenz (w3schools – EN)](https://www.w3schools.com/python/python_reference.asp)
+- [Offizielle Python-Dokumentation (EN)](https://docs.python.org/3/)
 
 ---
 
 ## Roadmaps
 
-[Frontend Dev.](https://roadmap.sh/frontend)#
-[Backend  Dev.](https://roadmap.sh/backend)
-
----
-
+- [Frontend Entwickler Roadmap](https://roadmap.sh/frontend)
+- [Backend Entwickler Roadmap](https://roadmap.sh/backend)
+- [DevOps Roadmap](https://roadmap.sh/devops)
 
