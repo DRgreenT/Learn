@@ -17,6 +17,10 @@
 
 ---
 
+<a href="https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc">Project Based Learning</a>
+
+---
+
 ### C# / .NET
 
 #### 🇩🇪
