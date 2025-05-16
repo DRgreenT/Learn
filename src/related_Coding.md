@@ -16,10 +16,10 @@
 </p>
 
 ---
-
-<a href="https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc">Project Based Learning</a>
-<a href="https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29">Clean code</a>
-
+<ul>
+  <li><a href="https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc">Project Based Learning</a></li>
+  <li><a href="https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29">Clean code</a></li>
+</ul>
 ---
 
 ### C# / .NET
