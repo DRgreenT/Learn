@@ -33,6 +33,7 @@
 - [.NET API-Browser (alle Klassen & Namespaces)](https://learn.microsoft.com/de-de/dotnet/api/?view=dotnet-plat-ext-7.0)
 - [.NET CLI-Befehle (Kommandozeilen-Tools)](https://learn.microsoft.com/de-de/dotnet/core/tools/)
 - [.NET SDK-Versionen und Downloads](https://learn.microsoft.com/de-de/dotnet/core/tools/sdk-manifest)
+- [Advanced C# Programming Course - FreeCodeCamp](https://www.youtube.com/watch?v=YT8s-90oDC0&t=10s)
 
 ---
 
