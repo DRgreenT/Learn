@@ -62,6 +62,7 @@
 - [Windows Programming in C++ (MSDN)](https://learn.microsoft.com/de-de/cpp/windows/overview-of-windows-programming-in-cpp?view=msvc-170)
 - [C++ auf Wikibooks (DE)](https://de.wikibooks.org/wiki/C%2B%2B-Programmierung)
 - [Runebook C++ Übersicht (DE)](https://runebook.dev/de/docs/cpp/-index-)
+- [A tour if C++ (Book)]([https://jsonformatter.org/](https://www.amazon.de/s?k=tour+of+c%2B%2B&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TXVH90L875T7&sprefix=tour+of+c%2B%2B%2Caps%2C127&ref=nb_sb_noss_1))
 
 **wxWidgets:**
 
