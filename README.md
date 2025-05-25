@@ -11,5 +11,7 @@ A curated collection of links and resources related to programming, networking, 
 - <a href="https://github.com/DRgreenT/Learn/blob/master/src/related_hacking.md">Hacking</a>
 - <a href="https://github.com/DRgreenT/Learn/blob/master/src/related_Linux.md">Linux</a>
 - [OpenGameArt](https://opengameart.org/)
+- [JsonFormatter](https://jsonformatter.org/)
+- [CSV Viewer](https://csv-viewer-online.github.io/)
 
 ---
